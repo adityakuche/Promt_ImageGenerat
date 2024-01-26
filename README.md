@@ -19,6 +19,10 @@ prompt = "A cat stretching on the floor, highly detailed, ultra sharp, cinematic
 Result:
 ![image](https://github.com/adityakuche/Promt_ImageGenerat/assets/48022963/9f9d8930-ec90-477d-8e91-fb7389d5e6e6)
 
+prompt = "A cat stretching on the floor, highly detailed, ultra sharp, cinematic, 100mm lens, 8k resolution."
+Result:
+![image](https://github.com/adityakuche/Promt_ImageGenerat/assets/48022963/2a07249b-de46-43f4-bd33-8e2a97123570)
+
 Referance:
 1.https://github.com/CompVis/stable-diffusion/
 2.https://github.com/divamgupta/stable-diffusion-tensorflow
