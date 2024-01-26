@@ -12,6 +12,8 @@ Just download the ckpt file from any fine-tuned SD (V1.5).
 1.InkPunk Diffusion: https://huggingface.co/Envvi/Inkpunk-Diffusion/tree/main
 2.Illustration Diffusion (Hollie Mengert): https://huggingface.co/Envvi/Inkpunk-Diffusion/tree/main
 
+![image](https://github.com/adityakuche/Promt_ImageGenerat/assets/48022963/966fc705-438b-46e4-adb5-aa328ab01873)
+
 Referance:
 1.https://github.com/CompVis/stable-diffusion/
 2.https://github.com/divamgupta/stable-diffusion-tensorflow
