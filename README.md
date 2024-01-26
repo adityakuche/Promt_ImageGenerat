@@ -14,6 +14,11 @@ Just download the ckpt file from any fine-tuned SD (V1.5).
 
 ![image](https://github.com/adityakuche/Promt_ImageGenerat/assets/48022963/966fc705-438b-46e4-adb5-aa328ab01873)
 
+providing promt in  demo.ipynb
+prompt = "A cat stretching on the floor, highly detailed, ultra sharp, cinematic, 100mm lens, 8k resolution."
+Result:
+![image](https://github.com/adityakuche/Promt_ImageGenerat/assets/48022963/9f9d8930-ec90-477d-8e91-fb7389d5e6e6)
+
 Referance:
 1.https://github.com/CompVis/stable-diffusion/
 2.https://github.com/divamgupta/stable-diffusion-tensorflow
